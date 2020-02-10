@@ -1,0 +1,16 @@
+#dice-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: lightblue;
+    min-height: 500px;
+    min-height: 500px;
+}
+.die{
+    font-size: 2em;
+    height: 100px;
+    width: 100px;
+    margin: 1em;
+    border:3px solid black;
+}
